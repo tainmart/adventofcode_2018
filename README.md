@@ -15,3 +15,11 @@
 ## Day 04
 [Description](https://adventofcode.com/2018/day/4)  
 [Files](day_04/)
+
+## Day 05
+[Description](https://adventofcode.com/2018/day/5)  
+[Files](day_05/)
+
+## Day 06
+[Description](https://adventofcode.com/2018/day/6)  
+[Files](day_06/)
